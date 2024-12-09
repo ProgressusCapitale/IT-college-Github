@@ -5,10 +5,7 @@
         </h1>
         <nav class="main-nav">
             <ul>
-                <li><a href="/">ホーム</a></li>
-                <li><a href="#about">学校概要</a></li>
-                <li><a href="#courses">コース案内</a></li>
-                <li><a href="#contact">お問い合わせ</a></li>
+                <li><a href="../public/index.php">ホーム</a></li>
             </ul>
         </nav>
     </div>
